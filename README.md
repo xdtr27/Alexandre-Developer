@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Alexandre de Souza 👋
 
-- 🔭 Me identifico com a área de Front-End, não descartando totalmente as outras áreas
-- 🌱 Estou estudando atualmente JavaScript, React e TypeScript
-- 😄 Pronomes: Ele/Dele 
+Apaixonado por tecnologia e Desenvolvimento de soluções através da programação.
 
+- 🔭 Me identifico mais com a área de Front-End, mas sem descartar totalmente as outras áreas
+- 🌱 Estou estudando atualmente JavaScript, React e TypeScript
 
 <div>
   <a href="https://github.com/xdtr27">
