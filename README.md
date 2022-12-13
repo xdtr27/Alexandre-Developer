@@ -1,9 +1,8 @@
 <div align="center">
   <h1>Olá! Eu sou o Alexandre de Souza 👋</h1>
-  <strong>Apaixonado por tecnologia e Desenvolvimento de soluções através da programação</strong>
-  <p>🔭 Me identifico mais com a área de Front-End, mas sem descartar totalmente as outras áreas</p> 
-  <br>
+  <strong>Apaixonado por tecnologia e Desenvolvimento de soluções através da programação</strong> 
   <p>🌱 Atualmente estou estudando JavaScript, React e TypeScript</p>
+  <br>
 </div>
 
 <div align="center">
