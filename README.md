@@ -6,9 +6,6 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xdtr27&bg_color=141414&color=4a4a4a&line=3038a6&point=595959&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ### Conhecimentos principais:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
