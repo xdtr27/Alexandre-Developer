@@ -22,4 +22,8 @@
 - Javascript/Typescript
 - Node.js
 
+<br>
+
+💡**Pense diferente**
+
 
