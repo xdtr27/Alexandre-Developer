@@ -13,7 +13,13 @@
 - 🎓Graduando em Engenharia de Software
 - 💻Meu objetivo é trabalhar com desenvolvimento web
 - ✅Sede em desenvolver softwares intuitivos e eficientes
-  
 
+<br>
+
+**Tecnologias:**
+
+- React
+- Javascript/Typescript
+- Node.js
 
 
